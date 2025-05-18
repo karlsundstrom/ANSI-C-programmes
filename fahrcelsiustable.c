@@ -2,6 +2,7 @@
 
 /* print fahrenheit-celsius table
  * for fahr = 0, 20, ..., 300 */
+/* SOURCE: K&R */
 
 main()
 {
